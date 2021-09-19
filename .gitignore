@@ -1,0 +1,10 @@
+.git
+.idea
+__pycache__
+dist
+build
+include
+Lib
+Scripts
+*.spce
+*.cfg
